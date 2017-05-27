@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<script src="pr.js"></script>
+	<link href="/css/tribe.css" rel="stylesheet" type="text/css">
+	<link href="/vendors/css/normalize.css" rel="stylesheet" type="text/css">
+	<link href="/vendors/css/skeleton.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+	<!-- Header -->
+	<header>
+	    <!-- logo -->
+	    <h1>TRIBE</h1>
+
+	    <!-- tabs -->
+	    <ul>
+		<li>T.R.I.B.E.</li>
+		<li>About Us</li>
+		<li>Contact Us</li>
+	    </ul>
+	</header>
+
+	<!-- outer box -->
+	<div>
+	    <!-- login -->
+	    <h2>Login</h2>	
+
+	    <!-- username -->
+	    <div>
+		<input type="text" value="Username">
+	    </div>
+
+	    <!-- password -->
+	    <div>
+		<input type="text" value="Password">
+	    </div>
+
+	    <!-- submit button -->
+	    <div>
+		<input type="submit" value="Submit">
+	    </div>
+
+	    <!-- option to sign up -->
+	    <div>
+		<p>Or, click to sign up</p>
+	    </div>
+	</div>
+	
+
+
+    </body>
+</html>
